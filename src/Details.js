@@ -61,7 +61,7 @@ export const eduDetails = [
   },
   {
     Position: "Bachelor in Computer Application",
-    Company: `Haribhai V. Desai,Pune University`,
+    Company: `Haribhai V. Desai,Savitribai Phule Pune University(SPPU)`,
     Location: "Pune",
     Type: "Full Time",
     Duration: "July 2019 - Oct 2022",
